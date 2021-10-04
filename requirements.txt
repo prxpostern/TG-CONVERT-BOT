@@ -4,4 +4,4 @@ tgcrypto
 Pillow
 psycopg2-binary
 sqlalchemy
-asyncio-dev
+asyncio
